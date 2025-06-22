@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 ```bash
-💻 Languages:     Python, JavaScript, Java, C
-🌐 Web Dev:       React.js, Next.js, Node.js, Express.js
-🗃️ DBs & Tools:   MongoDB, Prisma, Neon.tech, MySQL, PostgreSQL
+💻 Languages:     Python, JavaScript, Typescript, Java, C
+🌐 Web Dev:       ReactJS, NodeJS, ExpressJS, Next.js, Fast API, FLask 
+🗃️ DBs & Tools:   MongoDB, PostgreSQL, Firebase, Prisma, Neon.tech, MySQL,
 ☁️ Learning Now: Data Science, Machine Learning, Cloud, DevOps, System Design
