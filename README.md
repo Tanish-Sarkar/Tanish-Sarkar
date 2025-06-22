@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Tanish</h1>
-<h3 align="center">A passionate Data Scientist | Future AI-ML Engineer | Computer Engineering Undergrad</h3>
+<h3 align="center"> A passionate Data Scientist | Future AI-ML Engineer | Computer Engineering Undergrad</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+future-ready+projects...;Learning+Data+Science...;Lover+of+Tech+%26+Psychology;Always+Learning+%E2%9C%85" alt="Typing SVG" />
