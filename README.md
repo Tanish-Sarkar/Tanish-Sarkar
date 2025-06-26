@@ -33,9 +33,9 @@
 ---
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-Sarkar&layout=compact&theme=ambient-gradient" alt=sinhaparth5 />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanish-Sarkar&show_icons=true&locale=en&theme=ambient-gradient" alt="sinhaparth5" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Sarkar&theme=" alt="sinhaparth5" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-Sarkar&layout=compact&theme=ambient-gradient" alt="Tanish-Sarkar" />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanish-Sarkar&show_icons=true&locale=en&theme=ambient-gradient" alt="Tanish-Sarkar" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-Sarkar&theme=" alt="Tanish-Sarkar" /></p>
 
 ---
 
