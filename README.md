@@ -3,8 +3,19 @@
 <h1 align="center">Hola 👋, I'm Tanish Sarkar</h1>
 <h3 align="center">Learning Data Science | Future AI/ML Engineer | Building Real Projects | Sharing daily wins, struggles & growth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-sarkar" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanish-sarkar" alt="tanish-sarkar" /></a> </p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="coding" width="700" height="400"/>
+</p>
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/99085932-2a88bf00-260c-11eb-9b26-d2f125773831.png">
+</p>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=tanish-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-sarkar" /> 
+</p>
+
 
 ---
 
