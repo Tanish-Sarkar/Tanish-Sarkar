@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/99085932-2a88bf00-260c-11eb-9b26-d2f125773831.png">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Tanish-Sarkar)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="left"> 
@@ -149,5 +149,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish-Sarkar&theme=default"/>
+
+![Snake animation](https://github.com/thepiyushmalhotra/Tanish-Sarkar/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
