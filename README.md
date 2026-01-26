@@ -8,9 +8,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="coding" width="700" height="400"/>
 </p>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Tanish-Sarkar)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=tanish-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-sarkar" /> 
